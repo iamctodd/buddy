@@ -128,7 +128,7 @@ const NetworkingRecommendations = () => {
               type="text"
               value={searchName}
               onChange={handleSearchChange}
-              placeholder="Enter a name..."
+              placeholder="Enter a name to find buddies..."
               className="searchInput"
             />
             <button
