@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import * as XLSX from 'xlsx';
+import './NetworkingRecommendations.css';
 
 const NetworkingRecommendations = () => {
   const [data, setData] = useState([]);
@@ -9,27 +9,59 @@ const NetworkingRecommendations = () => {
   const [recommendations, setRecommendations] = useState(null);
   const [searchPerformed, setSearchPerformed] = useState(false);
 
-  // Load Excel data on component mount
+  // Load data on component mount
   useEffect(() => {
     const loadData = async () => {
       try {
         setLoading(true);
-        const response = await window.fs.readFile('networking_recommendations.xlsx');
-        const workbook = XLSX.read(response, {
-          cellDates: true,
-        });
         
-        // Get first sheet
-        const firstSheetName = workbook.SheetNames[0];
-        const worksheet = workbook.Sheets[firstSheetName];
+        // Load JSON directly instead of Excel
+        const response = await fetch('/data/networking_data.json');
         
-        // Convert to JSON
-        const jsonData = XLSX.utils.sheet_to_json(worksheet);
+        if (!response.ok) {
+          throw new Error(`HTTP error! Status: ${response.status}`);
+        }
+        
+        const jsonData = await response.json();
         setData(jsonData);
         setLoading(false);
       } catch (err) {
-        console.error('Error loading Excel file:', err);
-        setError('Failed to load networking data. Please try again.');
+        console.error('Error loading data:', err);
+        // Fall back to sample data
+        const sampleData = [
+          {
+            "First Name": "Emily",
+            "Last Name": "Daly",
+            "Full Name": "Emily Daly",
+            "email": "eagostino@gmail.com",
+            "recommended_name_1": "Jennifer Cogliano",
+            "rationale_1": "Both are in the 'Colleagues & Friends & Meeting & New & Product' cluster, suggesting shared interests in product manager and networking goals.",
+            "recommended_name_2": "Rashmi Kapur",
+            "rationale_2": "Both are in the 'Colleagues & Friends & Meeting & New & Product' cluster, likely overlapping in roles such as product manager and shared event goals."
+          },
+          {
+            "First Name": "Jennifer",
+            "Last Name": "Cogliano",
+            "Full Name": "Jennifer Cogliano",
+            "email": "jennifercogliano@gmail.com",
+            "recommended_name_1": "Emily Daly",
+            "rationale_1": "Both are in the 'Colleagues & Friends & Meeting & New & Product' cluster, suggesting shared interests in product manager and networking goals.",
+            "recommended_name_2": "Matt Landers",
+            "rationale_2": "Both are in the 'Colleagues & Friends & Meeting & New & Product' cluster, likely overlapping in roles such as product designer and shared event goals."
+          },
+          {
+            "First Name": "Matt",
+            "Last Name": "Landers",
+            "Full Name": "Matt Landers",
+            "email": "mlanders87@gmail.com",
+            "recommended_name_1": "Rob Winikates",
+            "rationale_1": "Both are in the 'Colleagues & Friends & Meeting & New & Product' cluster, suggesting shared interests in product designer and networking goals.",
+            "recommended_name_2": "Jennifer Cogliano",
+            "rationale_2": "Both are in the 'Colleagues & Friends & Meeting & New & Product' cluster, likely overlapping in roles such as product manager and shared event goals."
+          }
+        ];
+        setData(sampleData);
+        setError('Using sample data. JSON file could not be loaded.');
         setLoading(false);
       }
     };

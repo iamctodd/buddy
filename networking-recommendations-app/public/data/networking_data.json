@@ -1,0 +1,1072 @@
+[
+  {
+    "First Name": "Emily",
+    "Last Name": "Daly",
+    "Full Name": "Emily Daly",
+    "email": "eagostino@gmail.com",
+    "recommended_name_1": "Jennifer Cogliano",
+    "rationale_1": "Both are in the 'Colleagues & Friends & Meeting & New & Product' cluster, suggesting shared interests in product manager and networking goals.",
+    "recommended_name_2": "Rashmi Kapur",
+    "rationale_2": "Both are in the 'Colleagues & Friends & Meeting & New & Product' cluster, likely overlapping in roles such as product manager and shared event goals."
+  },
+  {
+    "First Name": "Jennifer",
+    "Last Name": "Cogliano",
+    "Full Name": "Jennifer Cogliano",
+    "email": "jennifercogliano@gmail.com",
+    "recommended_name_1": "Emily Daly",
+    "rationale_1": "Both are in the 'Colleagues & Friends & Meeting & New & Product' cluster, suggesting shared interests in product manager and networking goals.",
+    "recommended_name_2": "Matt Landers",
+    "rationale_2": "Both are in the 'Colleagues & Friends & Meeting & New & Product' cluster, likely overlapping in roles such as product designer and shared event goals."
+  },
+  {
+    "First Name": "David",
+    "Last Name": "Asher",
+    "Full Name": "David Asher",
+    "email": "dasher@computer.org",
+    "recommended_name_1": "David Asher",
+    "rationale_1": "Both are in the 'Colleagues & Friends & Meeting & New & Product' cluster, suggesting shared interests in director of software development and networking goals.",
+    "recommended_name_2": "David Asher",
+    "rationale_2": "Both are in the 'Colleagues & Friends & Meeting & New & Product' cluster, likely overlapping in roles such as director of software development and shared event goals."
+  },
+  {
+    "First Name": "Matt",
+    "Last Name": "Landers",
+    "Full Name": "Matt Landers",
+    "email": "mlanders87@gmail.com",
+    "recommended_name_1": "Rob Winikates",
+    "rationale_1": "Both are in the 'Colleagues & Friends & Meeting & New & Product' cluster, suggesting shared interests in product designer and networking goals.",
+    "recommended_name_2": "Jennifer Cogliano",
+    "rationale_2": "Both are in the 'Colleagues & Friends & Meeting & New & Product' cluster, likely overlapping in roles such as product manager and shared event goals."
+  },
+  {
+    "First Name": "Rob",
+    "Last Name": "Winikates",
+    "Full Name": "Rob Winikates",
+    "email": "rwinikat@gmail.com",
+    "recommended_name_1": "Matt Landers",
+    "rationale_1": "Both are in the 'Colleagues & Friends & Meeting & New & Product' cluster, suggesting shared interests in principal product manager and networking goals.",
+    "recommended_name_2": "Adam Schulman",
+    "rationale_2": "Both are in the 'Colleagues & Friends & Meeting & New & Product' cluster, likely overlapping in roles such as product leader and shared event goals."
+  },
+  {
+    "First Name": "Susie",
+    "Last Name": "Keeton",
+    "Full Name": "Susie Keeton",
+    "email": "susie.keeton@gmail.com",
+    "recommended_name_1": "Nick Katis",
+    "rationale_1": "Both are in the 'Colleagues & Friends & Meeting & New & Product' cluster, suggesting shared interests in fractional product manager and networking goals.",
+    "recommended_name_2": "Jeff Hubbard",
+    "rationale_2": "Both are in the 'Colleagues & Friends & Meeting & New & Product' cluster, likely overlapping in roles such as sales director and shared event goals."
+  },
+  {
+    "First Name": "Nick",
+    "Last Name": "Katis",
+    "Full Name": "Nick Katis",
+    "email": "nkatis99@gmail.com",
+    "recommended_name_1": "Susie Keeton",
+    "rationale_1": "Both are in the 'Colleagues & Friends & Meeting & New & Product' cluster, suggesting shared interests in principal product manager and networking goals.",
+    "recommended_name_2": "Christopher Dedels",
+    "rationale_2": "Both are in the 'Colleagues & Friends & Meeting & New & Product' cluster, likely overlapping in roles such as vp product management and shared event goals."
+  },
+  {
+    "First Name": "Christopher",
+    "Last Name": "Dedels",
+    "Full Name": "Christopher Dedels",
+    "email": "cdedels@gmail.com",
+    "recommended_name_1": "Stephanie Leathe",
+    "rationale_1": "Both are in the 'Colleagues & Friends & Meeting & New & Product' cluster, suggesting shared interests in vp product management and networking goals.",
+    "recommended_name_2": "Forest Edson",
+    "rationale_2": "Both are in the 'Colleagues & Friends & Meeting & New & Product' cluster, likely overlapping in roles such as sr product manager and shared event goals."
+  },
+  {
+    "First Name": "Stephanie",
+    "Last Name": "Leathe",
+    "Full Name": "Stephanie Leathe",
+    "email": "stephanie@ninetwothree.co",
+    "recommended_name_1": "Christopher Dedels",
+    "rationale_1": "Both are in the 'Colleagues & Friends & Meeting & New & Product' cluster, suggesting shared interests in product manager and networking goals.",
+    "recommended_name_2": "David Asher",
+    "rationale_2": "Both are in the 'Colleagues & Friends & Meeting & New & Product' cluster, likely overlapping in roles such as director of software development and shared event goals."
+  },
+  {
+    "First Name": "Rashmi",
+    "Last Name": "Kapur",
+    "Full Name": "Rashmi Kapur",
+    "email": "rkapur@copyright.com",
+    "recommended_name_1": "Jeff Hubbard",
+    "rationale_1": "Both are in the 'Colleagues & Friends & Meeting & New & Product' cluster, suggesting shared interests in product manager and networking goals.",
+    "recommended_name_2": "Ling Liu",
+    "rationale_2": "Both are in the 'Colleagues & Friends & Meeting & New & Product' cluster, likely overlapping in roles such as product manager and shared event goals."
+  },
+  {
+    "First Name": "Jeff",
+    "Last Name": "Hubbard",
+    "Full Name": "Jeff Hubbard",
+    "email": "jhubbard@pragmaticinstitute.com",
+    "recommended_name_1": "Rashmi Kapur",
+    "rationale_1": "Both are in the 'Colleagues & Friends & Meeting & New & Product' cluster, suggesting shared interests in sales director and networking goals.",
+    "recommended_name_2": "Susie Keeton",
+    "rationale_2": "Both are in the 'Colleagues & Friends & Meeting & New & Product' cluster, likely overlapping in roles such as fractional product manager and shared event goals."
+  },
+  {
+    "First Name": "Preet Karan Singh",
+    "Last Name": "Narula",
+    "Full Name": "Preet Karan Singh Narula",
+    "email": "preetkaran0609@gmail.com",
+    "recommended_name_1": "Adam Schulman",
+    "rationale_1": "Both are in the 'Colleagues & Friends & Meeting & New & Product' cluster, suggesting shared interests in product manager and networking goals.",
+    "recommended_name_2": "Aaron Fracht-Monroe",
+    "rationale_2": "Both are in the 'Colleagues & Friends & Meeting & New & Product' cluster, likely overlapping in roles such as sr product manager and shared event goals."
+  },
+  {
+    "First Name": "Adam",
+    "Last Name": "Schulman",
+    "Full Name": "Adam Schulman",
+    "email": "Shulman.adam@gmail.com",
+    "recommended_name_1": "Preet Karan Singh Narula",
+    "rationale_1": "Both are in the 'Colleagues & Friends & Meeting & New & Product' cluster, suggesting shared interests in product leader and networking goals.",
+    "recommended_name_2": "Rob Winikates",
+    "rationale_2": "Both are in the 'Colleagues & Friends & Meeting & New & Product' cluster, likely overlapping in roles such as principal product manager and shared event goals."
+  },
+  {
+    "First Name": "Ling",
+    "Last Name": "Liu",
+    "Full Name": "Ling Liu",
+    "email": "lingliu382@gmail.com",
+    "recommended_name_1": "Aaron Fracht-Monroe",
+    "rationale_1": "Both are in the 'Colleagues & Friends & Meeting & New & Product' cluster, suggesting shared interests in product manager and networking goals.",
+    "recommended_name_2": "Rashmi Kapur",
+    "rationale_2": "Both are in the 'Colleagues & Friends & Meeting & New & Product' cluster, likely overlapping in roles such as product manager and shared event goals."
+  },
+  {
+    "First Name": "Aaron",
+    "Last Name": "Fracht-Monroe",
+    "Full Name": "Aaron Fracht-Monroe",
+    "email": "aaronfm@gmail.com",
+    "recommended_name_1": "Ling Liu",
+    "rationale_1": "Both are in the 'Colleagues & Friends & Meeting & New & Product' cluster, suggesting shared interests in sr product manager and networking goals.",
+    "recommended_name_2": "Ashley McKenney",
+    "rationale_2": "Both are in the 'Colleagues & Friends & Meeting & New & Product' cluster, likely overlapping in roles such as product manager and shared event goals."
+  },
+  {
+    "First Name": "Ruoqian",
+    "Last Name": "Lu",
+    "Full Name": "Ruoqian Lu",
+    "email": "ruoqian.lu@autodesk.com",
+    "recommended_name_1": "Forest Edson",
+    "rationale_1": "Both are in the 'Colleagues & Friends & Meeting & New & Product' cluster, suggesting shared interests in product owner and networking goals.",
+    "recommended_name_2": "Matt Landers",
+    "rationale_2": "Both are in the 'Colleagues & Friends & Meeting & New & Product' cluster, likely overlapping in roles such as product designer and shared event goals."
+  },
+  {
+    "First Name": "Forest",
+    "Last Name": "Edson",
+    "Full Name": "Forest Edson",
+    "email": "forest.edson@brighthorizons.com",
+    "recommended_name_1": "Ruoqian Lu",
+    "rationale_1": "Both are in the 'Colleagues & Friends & Meeting & New & Product' cluster, suggesting shared interests in sr product manager and networking goals.",
+    "recommended_name_2": "David Asher",
+    "rationale_2": "Both are in the 'Colleagues & Friends & Meeting & New & Product' cluster, likely overlapping in roles such as director of software development and shared event goals."
+  },
+  {
+    "First Name": "Ashley",
+    "Last Name": "McKenney",
+    "Full Name": "Ashley McKenney",
+    "email": "ashley.mckenney@ninetwothree.co",
+    "recommended_name_1": "Janet Sun",
+    "rationale_1": "Both are in the 'Colleagues & Friends & Meeting & New & Product' cluster, suggesting shared interests in product manager and networking goals.",
+    "recommended_name_2": "Aaron Fracht-Monroe",
+    "rationale_2": "Both are in the 'Colleagues & Friends & Meeting & New & Product' cluster, likely overlapping in roles such as sr product manager and shared event goals."
+  },
+  {
+    "First Name": "Janet",
+    "Last Name": "Sun",
+    "Full Name": "Janet Sun",
+    "email": "jcmsun@gmail.com",
+    "recommended_name_1": "Ashley McKenney",
+    "rationale_1": "Both are in the 'Colleagues & Friends & Meeting & New & Product' cluster, suggesting shared interests in vp, product and networking goals.",
+    "recommended_name_2": "Matt Landers",
+    "rationale_2": "Both are in the 'Colleagues & Friends & Meeting & New & Product' cluster, likely overlapping in roles such as product designer and shared event goals."
+  },
+  {
+    "First Name": "Info Requested",
+    "Last Name": "Info Requested",
+    "Full Name": "Info Requested Info Requested",
+    "email": "Info Requested",
+    "recommended_name_1": "Info Requested Info Requested",
+    "rationale_1": "Both are in the 'Ai & Colleagues & Meeting & New & Product' cluster, suggesting shared interests in  and networking goals.",
+    "recommended_name_2": "Info Requested Info Requested",
+    "rationale_2": "Both are in the 'Ai & Colleagues & Meeting & New & Product' cluster, likely overlapping in roles such as  and shared event goals."
+  },
+  {
+    "First Name": "Gabriella",
+    "Last Name": "Zhang",
+    "Full Name": "Gabriella Zhang",
+    "email": "gabriella.h.savage@gmail.com",
+    "recommended_name_1": "Shweta Agrawal",
+    "rationale_1": "Both are in the 'Ai & Colleagues & Meeting & New & Product' cluster, suggesting shared interests in founder and networking goals.",
+    "recommended_name_2": "Kalai Arun Balu Ravikumar",
+    "rationale_2": "Both are in the 'Ai & Colleagues & Meeting & New & Product' cluster, likely overlapping in roles such as student and shared event goals."
+  },
+  {
+    "First Name": "Shweta",
+    "Last Name": "Agrawal",
+    "Full Name": "Shweta Agrawal",
+    "email": "shweta.agr9@gmail.com",
+    "recommended_name_1": "Gabriella Zhang",
+    "rationale_1": "Both are in the 'Ai & Colleagues & Meeting & New & Product' cluster, suggesting shared interests in chief get-things-done and networking goals.",
+    "recommended_name_2": "Jake Levirne",
+    "rationale_2": "Both are in the 'Ai & Colleagues & Meeting & New & Product' cluster, likely overlapping in roles such as founder and shared event goals."
+  },
+  {
+    "First Name": "Brian",
+    "Last Name": "Bozzuto",
+    "Full Name": "Brian Bozzuto",
+    "email": "brian.bozzuto@gmail.com",
+    "recommended_name_1": "Elena Kapustina",
+    "rationale_1": "Both are in the 'Ai & Colleagues & Meeting & New & Product' cluster, suggesting shared interests in director of technical program management and networking goals.",
+    "recommended_name_2": "Kalai Arun Balu Ravikumar",
+    "rationale_2": "Both are in the 'Ai & Colleagues & Meeting & New & Product' cluster, likely overlapping in roles such as student and shared event goals."
+  },
+  {
+    "First Name": "Elena",
+    "Last Name": "Kapustina",
+    "Full Name": "Elena Kapustina",
+    "email": "elenakapusa@gmail.com",
+    "recommended_name_1": "Brian Bozzuto",
+    "rationale_1": "Both are in the 'Ai & Colleagues & Meeting & New & Product' cluster, suggesting shared interests in product-manager and networking goals.",
+    "recommended_name_2": "Info Requested Info Requested",
+    "rationale_2": "Both are in the 'Ai & Colleagues & Meeting & New & Product' cluster, likely overlapping in roles such as  and shared event goals."
+  },
+  {
+    "First Name": "Immanuel",
+    "Last Name": "Foster",
+    "Full Name": "Immanuel Foster",
+    "email": "immanuelfoster@quinnemanuel.com",
+    "recommended_name_1": "Natalya McLane",
+    "rationale_1": "Both are in the 'Ai & Colleagues & Meeting & New & Product' cluster, suggesting shared interests in litigation attorney and networking goals.",
+    "recommended_name_2": "Shrikanth Muralidharan",
+    "rationale_2": "Both are in the 'Ai & Colleagues & Meeting & New & Product' cluster, likely overlapping in roles such as product manager and shared event goals."
+  },
+  {
+    "First Name": "Natalya",
+    "Last Name": "McLane",
+    "Full Name": "Natalya McLane",
+    "email": "natalya.makarnyaeva@gmail.com",
+    "recommended_name_1": "Immanuel Foster",
+    "rationale_1": "Both are in the 'Ai & Colleagues & Meeting & New & Product' cluster, suggesting shared interests in director of productmanagement and networking goals.",
+    "recommended_name_2": "Sully M.",
+    "rationale_2": "Both are in the 'Ai & Colleagues & Meeting & New & Product' cluster, likely overlapping in roles such as solution architect and shared event goals."
+  },
+  {
+    "First Name": "Tara",
+    "Last Name": "Bobozo",
+    "Full Name": "Tara Bobozo",
+    "email": "tara@bgcboston.com",
+    "recommended_name_1": "Jake Levirne",
+    "rationale_1": "Both are in the 'Ai & Colleagues & Meeting & New & Product' cluster, suggesting shared interests in executive programs liaison and networking goals.",
+    "recommended_name_2": "Info Requested Info Requested",
+    "rationale_2": "Both are in the 'Ai & Colleagues & Meeting & New & Product' cluster, likely overlapping in roles such as  and shared event goals."
+  },
+  {
+    "First Name": "Jake",
+    "Last Name": "Levirne",
+    "Full Name": "Jake Levirne",
+    "email": "jake@specstory.com",
+    "recommended_name_1": "Tara Bobozo",
+    "rationale_1": "Both are in the 'Ai & Colleagues & Meeting & New & Product' cluster, suggesting shared interests in founder and networking goals.",
+    "recommended_name_2": "Shweta Agrawal",
+    "rationale_2": "Both are in the 'Ai & Colleagues & Meeting & New & Product' cluster, likely overlapping in roles such as chief get-things-done and shared event goals."
+  },
+  {
+    "First Name": "Sully",
+    "Last Name": "M.",
+    "Full Name": "Sully M.",
+    "email": "sully.devtech@gmail.com",
+    "recommended_name_1": "Carolyn Ripley",
+    "rationale_1": "Both are in the 'Ai & Colleagues & Meeting & New & Product' cluster, suggesting shared interests in solution architect and networking goals.",
+    "recommended_name_2": "Natalya McLane",
+    "rationale_2": "Both are in the 'Ai & Colleagues & Meeting & New & Product' cluster, likely overlapping in roles such as director of productmanagement and shared event goals."
+  },
+  {
+    "First Name": "Carolyn",
+    "Last Name": "Ripley",
+    "Full Name": "Carolyn Ripley",
+    "email": "carolyn.ripley@gmail.com",
+    "recommended_name_1": "Sully M.",
+    "rationale_1": "Both are in the 'Ai & Colleagues & Meeting & New & Product' cluster, suggesting shared interests in senior user researcher and networking goals.",
+    "recommended_name_2": "Kalai Arun Balu Ravikumar",
+    "rationale_2": "Both are in the 'Ai & Colleagues & Meeting & New & Product' cluster, likely overlapping in roles such as student and shared event goals."
+  },
+  {
+    "First Name": "Giuseppina",
+    "Last Name": "Daniel",
+    "Full Name": "Giuseppina Daniel",
+    "email": "gdavan@yahoo.com",
+    "recommended_name_1": "Shrikanth Muralidharan",
+    "rationale_1": "Both are in the 'Ai & Colleagues & Meeting & New & Product' cluster, suggesting shared interests in vp of product and networking goals.",
+    "recommended_name_2": "Info Requested Info Requested",
+    "rationale_2": "Both are in the 'Ai & Colleagues & Meeting & New & Product' cluster, likely overlapping in roles such as  and shared event goals."
+  },
+  {
+    "First Name": "Shrikanth",
+    "Last Name": "Muralidharan",
+    "Full Name": "Shrikanth Muralidharan",
+    "email": "shrikanth.muralidharan@teradyne.com",
+    "recommended_name_1": "Giuseppina Daniel",
+    "rationale_1": "Both are in the 'Ai & Colleagues & Meeting & New & Product' cluster, suggesting shared interests in product manager and networking goals.",
+    "recommended_name_2": "Immanuel Foster",
+    "rationale_2": "Both are in the 'Ai & Colleagues & Meeting & New & Product' cluster, likely overlapping in roles such as litigation attorney and shared event goals."
+  },
+  {
+    "First Name": "Eileen",
+    "Last Name": "Young",
+    "Full Name": "Eileen Young",
+    "email": "eileen.young5@yahoo.com",
+    "recommended_name_1": "Ana Gutierrez",
+    "rationale_1": "Both are in the 'Colleagues & Hire & Meeting & People & Want' cluster, suggesting shared interests in  and networking goals.",
+    "recommended_name_2": "Joshua Childs",
+    "rationale_2": "Both are in the 'Colleagues & Hire & Meeting & People & Want' cluster, likely overlapping in roles such as director of product and shared event goals."
+  },
+  {
+    "First Name": "Ana",
+    "Last Name": "Gutierrez",
+    "Full Name": "Ana Gutierrez",
+    "email": "kary287@gmail.com",
+    "recommended_name_1": "Eileen Young",
+    "rationale_1": "Both are in the 'Colleagues & Hire & Meeting & People & Want' cluster, suggesting shared interests in sr producto manager and networking goals.",
+    "recommended_name_2": "Amy Stephens",
+    "rationale_2": "Both are in the 'Colleagues & Hire & Meeting & People & Want' cluster, likely overlapping in roles such as sr. product manager and shared event goals."
+  },
+  {
+    "First Name": "Rajul",
+    "Last Name": "Jain",
+    "Full Name": "Rajul Jain",
+    "email": "rajul.jain2222@gmail.com",
+    "recommended_name_1": "Daniel Payares",
+    "rationale_1": "Both are in the 'Colleagues & Hire & Meeting & People & Want' cluster, suggesting shared interests in product manager and networking goals.",
+    "recommended_name_2": "Amy Stephens",
+    "rationale_2": "Both are in the 'Colleagues & Hire & Meeting & People & Want' cluster, likely overlapping in roles such as sr. product manager and shared event goals."
+  },
+  {
+    "First Name": "Daniel",
+    "Last Name": "Payares",
+    "Full Name": "Daniel Payares",
+    "email": "dpayares@gmail.com",
+    "recommended_name_1": "Rajul Jain",
+    "rationale_1": "Both are in the 'Colleagues & Hire & Meeting & People & Want' cluster, suggesting shared interests in product manager and networking goals.",
+    "recommended_name_2": "Abhishek Katiyar",
+    "rationale_2": "Both are in the 'Colleagues & Hire & Meeting & People & Want' cluster, likely overlapping in roles such as sr. product manager - tech and shared event goals."
+  },
+  {
+    "First Name": "Amy",
+    "Last Name": "Stephens",
+    "Full Name": "Amy Stephens",
+    "email": "green.amye@gmail.com",
+    "recommended_name_1": "Abhishek Katiyar",
+    "rationale_1": "Both are in the 'Colleagues & Hire & Meeting & People & Want' cluster, suggesting shared interests in sr. product manager and networking goals.",
+    "recommended_name_2": "Ana Gutierrez",
+    "rationale_2": "Both are in the 'Colleagues & Hire & Meeting & People & Want' cluster, likely overlapping in roles such as sr producto manager and shared event goals."
+  },
+  {
+    "First Name": "Abhishek",
+    "Last Name": "Katiyar",
+    "Full Name": "Abhishek Katiyar",
+    "email": "abhishek.katiyar@gmail.com",
+    "recommended_name_1": "Amy Stephens",
+    "rationale_1": "Both are in the 'Colleagues & Hire & Meeting & People & Want' cluster, suggesting shared interests in sr. product manager - tech and networking goals.",
+    "recommended_name_2": "Ana Gutierrez",
+    "rationale_2": "Both are in the 'Colleagues & Hire & Meeting & People & Want' cluster, likely overlapping in roles such as sr producto manager and shared event goals."
+  },
+  {
+    "First Name": "Gene",
+    "Last Name": "Mitchell",
+    "Full Name": "Gene Mitchell",
+    "email": "eugene.mitchell@bnymellon.com",
+    "recommended_name_1": "Joshua Childs",
+    "rationale_1": "Both are in the 'Colleagues & Hire & Meeting & People & Want' cluster, suggesting shared interests in product manager and networking goals.",
+    "recommended_name_2": "Richard Sherrard",
+    "rationale_2": "Both are in the 'Colleagues & Hire & Meeting & People & Want' cluster, likely overlapping in roles such as product manager and shared event goals."
+  },
+  {
+    "First Name": "Joshua",
+    "Last Name": "Childs",
+    "Full Name": "Joshua Childs",
+    "email": "j.k.childs@me.com",
+    "recommended_name_1": "Gene Mitchell",
+    "rationale_1": "Both are in the 'Colleagues & Hire & Meeting & People & Want' cluster, suggesting shared interests in director of product and networking goals.",
+    "recommended_name_2": "Joseph Weihs",
+    "rationale_2": "Both are in the 'Colleagues & Hire & Meeting & People & Want' cluster, likely overlapping in roles such as product manager and shared event goals."
+  },
+  {
+    "First Name": "Joseph",
+    "Last Name": "Weihs",
+    "Full Name": "Joseph Weihs",
+    "email": "yossi@weihs.net",
+    "recommended_name_1": "Anna Xia",
+    "rationale_1": "Both are in the 'Colleagues & Hire & Meeting & People & Want' cluster, suggesting shared interests in product manager and networking goals.",
+    "recommended_name_2": "Joshua Childs",
+    "rationale_2": "Both are in the 'Colleagues & Hire & Meeting & People & Want' cluster, likely overlapping in roles such as director of product and shared event goals."
+  },
+  {
+    "First Name": "Anna",
+    "Last Name": "Xia",
+    "Full Name": "Anna Xia",
+    "email": "annaxia@bu.edu",
+    "recommended_name_1": "Joseph Weihs",
+    "rationale_1": "Both are in the 'Colleagues & Hire & Meeting & People & Want' cluster, suggesting shared interests in mba and networking goals.",
+    "recommended_name_2": "Alyissa Dzaugis",
+    "rationale_2": "Both are in the 'Colleagues & Hire & Meeting & People & Want' cluster, likely overlapping in roles such as product manager and shared event goals."
+  },
+  {
+    "First Name": "Richard",
+    "Last Name": "Sherrard",
+    "Full Name": "Richard Sherrard",
+    "email": "r_sherrard@hotmail.com",
+    "recommended_name_1": "Alyissa Dzaugis",
+    "rationale_1": "Both are in the 'Colleagues & Hire & Meeting & People & Want' cluster, suggesting shared interests in product manager and networking goals.",
+    "recommended_name_2": "Gene Mitchell",
+    "rationale_2": "Both are in the 'Colleagues & Hire & Meeting & People & Want' cluster, likely overlapping in roles such as product manager and shared event goals."
+  },
+  {
+    "First Name": "Alyissa",
+    "Last Name": "Dzaugis",
+    "Full Name": "Alyissa Dzaugis",
+    "email": "alyissa.dzaugis@gmail.com",
+    "recommended_name_1": "Richard Sherrard",
+    "rationale_1": "Both are in the 'Colleagues & Hire & Meeting & People & Want' cluster, suggesting shared interests in product manager and networking goals.",
+    "recommended_name_2": "Anna Xia",
+    "rationale_2": "Both are in the 'Colleagues & Hire & Meeting & People & Want' cluster, likely overlapping in roles such as mba and shared event goals."
+  },
+  {
+    "First Name": "Vasundhara",
+    "Last Name": "Khemani",
+    "Full Name": "Vasundhara Khemani",
+    "email": "vkhemani@student.hult.edu",
+    "recommended_name_1": "David Owen",
+    "rationale_1": "Both are in the 'Colleagues & Hire & Meeting & People & Want' cluster, suggesting shared interests in operation analyst and networking goals.",
+    "recommended_name_2": "shreyas mahimkar",
+    "rationale_2": "Both are in the 'Colleagues & Hire & Meeting & People & Want' cluster, likely overlapping in roles such as data scientist and shared event goals."
+  },
+  {
+    "First Name": "David",
+    "Last Name": "Owen",
+    "Full Name": "David Owen",
+    "email": "david.owen@faculty.hult.edu",
+    "recommended_name_1": "Vasundhara Khemani",
+    "rationale_1": "Both are in the 'Colleagues & Hire & Meeting & People & Want' cluster, suggesting shared interests in adjunct faculty and networking goals.",
+    "recommended_name_2": "Andrea Abernathy",
+    "rationale_2": "Both are in the 'Colleagues & Hire & Meeting & People & Want' cluster, likely overlapping in roles such as director, product management, ai solutions and shared event goals."
+  },
+  {
+    "First Name": "Erica",
+    "Last Name": "Seidel",
+    "Full Name": "Erica Seidel",
+    "email": "erica@theconnectivegood.com",
+    "recommended_name_1": "Balaji Sundara",
+    "rationale_1": "Both are in the 'Colleagues & Hire & Meeting & People & Want' cluster, suggesting shared interests in executive recruiter and networking goals.",
+    "recommended_name_2": "Ariel Chin",
+    "rationale_2": "Both are in the 'Colleagues & Hire & Meeting & People & Want' cluster, likely overlapping in roles such as visitors center manager and shared event goals."
+  },
+  {
+    "First Name": "Balaji",
+    "Last Name": "Sundara",
+    "Full Name": "Balaji Sundara",
+    "email": "balajisundara@msn.com",
+    "recommended_name_1": "Erica Seidel",
+    "rationale_1": "Both are in the 'Colleagues & Hire & Meeting & People & Want' cluster, suggesting shared interests in advisor and networking goals.",
+    "recommended_name_2": "David Owen",
+    "rationale_2": "Both are in the 'Colleagues & Hire & Meeting & People & Want' cluster, likely overlapping in roles such as adjunct faculty and shared event goals."
+  },
+  {
+    "First Name": "Kimberly",
+    "Last Name": "Harriman",
+    "Full Name": "Kimberly Harriman",
+    "email": "kimberlyharriman@gmail.com",
+    "recommended_name_1": "Sheba Mathew",
+    "rationale_1": "Both are in the 'Colleagues & Hire & Meeting & People & Want' cluster, suggesting shared interests in project manager/client solutions specialist and networking goals.",
+    "recommended_name_2": "John Wylie",
+    "rationale_2": "Both are in the 'Colleagues & Hire & Meeting & People & Want' cluster, likely overlapping in roles such as vp products and shared event goals."
+  },
+  {
+    "First Name": "Sheba",
+    "Last Name": "Mathew",
+    "Full Name": "Sheba Mathew",
+    "email": "sheba.mathew@emdgroup.com",
+    "recommended_name_1": "Kimberly Harriman",
+    "rationale_1": "Both are in the 'Colleagues & Hire & Meeting & People & Want' cluster, suggesting shared interests in chief of staff and networking goals.",
+    "recommended_name_2": "Ariel Chin",
+    "rationale_2": "Both are in the 'Colleagues & Hire & Meeting & People & Want' cluster, likely overlapping in roles such as visitors center manager and shared event goals."
+  },
+  {
+    "First Name": "Mei Hwa",
+    "Last Name": "Wong",
+    "Full Name": "Mei Hwa Wong",
+    "email": "meihwa.wong@hult.edu",
+    "recommended_name_1": "Raquel Silva",
+    "rationale_1": "Both are in the 'Colleagues & Hire & Meeting & People & Want' cluster, suggesting shared interests in senior program operations manager and networking goals.",
+    "recommended_name_2": "C. Todd Lombardo",
+    "rationale_2": "Both are in the 'Colleagues & Hire & Meeting & People & Want' cluster, likely overlapping in roles such as prof and shared event goals."
+  },
+  {
+    "First Name": "Raquel",
+    "Last Name": "Silva",
+    "Full Name": "Raquel Silva",
+    "email": "quel_msilva@hotmail.com",
+    "recommended_name_1": "Mei Hwa Wong",
+    "rationale_1": "Both are in the 'Colleagues & Hire & Meeting & People & Want' cluster, suggesting shared interests in student and networking goals.",
+    "recommended_name_2": "Marine de La Bretesche",
+    "rationale_2": "Both are in the 'Colleagues & Hire & Meeting & People & Want' cluster, likely overlapping in roles such as senior product manager and shared event goals."
+  },
+  {
+    "First Name": "Christine",
+    "Last Name": "Halbig",
+    "Full Name": "Christine Halbig",
+    "email": "cleehalbig@gmail.com",
+    "recommended_name_1": "C. Todd Lombardo",
+    "rationale_1": "Both are in the 'Colleagues & Hire & Meeting & People & Want' cluster, suggesting shared interests in technical program manager and networking goals.",
+    "recommended_name_2": "Bill Wendel",
+    "rationale_2": "Both are in the 'Colleagues & Hire & Meeting & People & Want' cluster, likely overlapping in roles such as consumer advocate and shared event goals."
+  },
+  {
+    "First Name": "C. Todd",
+    "Last Name": "Lombardo",
+    "Full Name": "C. Todd Lombardo",
+    "email": "hi@ctodd.com",
+    "recommended_name_1": "Christine Halbig",
+    "rationale_1": "Both are in the 'Colleagues & Hire & Meeting & People & Want' cluster, suggesting shared interests in prof and networking goals.",
+    "recommended_name_2": "John Wylie",
+    "rationale_2": "Both are in the 'Colleagues & Hire & Meeting & People & Want' cluster, likely overlapping in roles such as vp products and shared event goals."
+  },
+  {
+    "First Name": "Shael",
+    "Last Name": "Brown",
+    "Full Name": "Shael Brown",
+    "email": "info@kintsugianalytics.com",
+    "recommended_name_1": "Ariane Faro",
+    "rationale_1": "Both are in the 'Colleagues & Hire & Meeting & People & Want' cluster, suggesting shared interests in founder and networking goals.",
+    "recommended_name_2": "Christine Halbig",
+    "rationale_2": "Both are in the 'Colleagues & Hire & Meeting & People & Want' cluster, likely overlapping in roles such as technical program manager and shared event goals."
+  },
+  {
+    "First Name": "Ariane",
+    "Last Name": "Faro",
+    "Full Name": "Ariane Faro",
+    "email": "arianefaro16@gmail.com",
+    "recommended_name_1": "Shael Brown",
+    "rationale_1": "Both are in the 'Colleagues & Hire & Meeting & People & Want' cluster, suggesting shared interests in content creator and networking goals.",
+    "recommended_name_2": "Bill Wendel",
+    "rationale_2": "Both are in the 'Colleagues & Hire & Meeting & People & Want' cluster, likely overlapping in roles such as consumer advocate and shared event goals."
+  },
+  {
+    "First Name": "John",
+    "Last Name": "Wylie",
+    "Full Name": "John Wylie",
+    "email": "JSEWylie@gmail.com",
+    "recommended_name_1": "Alex Haney",
+    "rationale_1": "Both are in the 'Colleagues & Hire & Meeting & People & Want' cluster, suggesting shared interests in vp products and networking goals.",
+    "recommended_name_2": "Kimberly Harriman",
+    "rationale_2": "Both are in the 'Colleagues & Hire & Meeting & People & Want' cluster, likely overlapping in roles such as project manager/client solutions specialist and shared event goals."
+  },
+  {
+    "First Name": "Alex",
+    "Last Name": "Haney",
+    "Full Name": "Alex Haney",
+    "email": "alexhaney@gmail.com",
+    "recommended_name_1": "John Wylie",
+    "rationale_1": "Both are in the 'Colleagues & Hire & Meeting & People & Want' cluster, suggesting shared interests in engagement manager and networking goals.",
+    "recommended_name_2": "Afra Ali",
+    "rationale_2": "Both are in the 'Colleagues & Hire & Meeting & People & Want' cluster, likely overlapping in roles such as consultant - program management and shared event goals."
+  },
+  {
+    "First Name": "Serena",
+    "Last Name": "Yombe",
+    "Full Name": "Serena Yombe",
+    "email": "billyombe@gmail.com",
+    "recommended_name_1": "Afra Ali",
+    "rationale_1": "Both are in the 'Colleagues & Hire & Meeting & People & Want' cluster, suggesting shared interests in tpm and networking goals.",
+    "recommended_name_2": "Ariel Chin",
+    "rationale_2": "Both are in the 'Colleagues & Hire & Meeting & People & Want' cluster, likely overlapping in roles such as visitors center manager and shared event goals."
+  },
+  {
+    "First Name": "Afra",
+    "Last Name": "Ali",
+    "Full Name": "Afra Ali",
+    "email": "afra.elias@gmail.com",
+    "recommended_name_1": "Serena Yombe",
+    "rationale_1": "Both are in the 'Colleagues & Hire & Meeting & People & Want' cluster, suggesting shared interests in consultant - program management and networking goals.",
+    "recommended_name_2": "Alex Haney",
+    "rationale_2": "Both are in the 'Colleagues & Hire & Meeting & People & Want' cluster, likely overlapping in roles such as engagement manager and shared event goals."
+  },
+  {
+    "First Name": "Jennifer",
+    "Last Name": "Jones",
+    "Full Name": "Jennifer Jones",
+    "email": "jpursleyjones@gmail.com",
+    "recommended_name_1": "Andrea Abernathy",
+    "rationale_1": "Both are in the 'Colleagues & Hire & Meeting & People & Want' cluster, suggesting shared interests in senior director and networking goals.",
+    "recommended_name_2": "Bill Wendel",
+    "rationale_2": "Both are in the 'Colleagues & Hire & Meeting & People & Want' cluster, likely overlapping in roles such as consumer advocate and shared event goals."
+  },
+  {
+    "First Name": "Andrea",
+    "Last Name": "Abernathy",
+    "Full Name": "Andrea Abernathy",
+    "email": "andrea_abernathy@yahoo.com",
+    "recommended_name_1": "Jennifer Jones",
+    "rationale_1": "Both are in the 'Colleagues & Hire & Meeting & People & Want' cluster, suggesting shared interests in director, product management, ai solutions and networking goals.",
+    "recommended_name_2": "David Owen",
+    "rationale_2": "Both are in the 'Colleagues & Hire & Meeting & People & Want' cluster, likely overlapping in roles such as adjunct faculty and shared event goals."
+  },
+  {
+    "First Name": "Ariel",
+    "Last Name": "Chin",
+    "Full Name": "Ariel Chin",
+    "email": "arielchin1@gmail.com",
+    "recommended_name_1": "Bill Wendel",
+    "rationale_1": "Both are in the 'Colleagues & Hire & Meeting & People & Want' cluster, suggesting shared interests in visitors center manager and networking goals.",
+    "recommended_name_2": "Serena Yombe",
+    "rationale_2": "Both are in the 'Colleagues & Hire & Meeting & People & Want' cluster, likely overlapping in roles such as tpm and shared event goals."
+  },
+  {
+    "First Name": "Bill",
+    "Last Name": "Wendel",
+    "Full Name": "Bill Wendel",
+    "email": "realestatecafe@gmail.com",
+    "recommended_name_1": "Ariel Chin",
+    "rationale_1": "Both are in the 'Colleagues & Hire & Meeting & People & Want' cluster, suggesting shared interests in consumer advocate and networking goals.",
+    "recommended_name_2": "Jennifer Jones",
+    "rationale_2": "Both are in the 'Colleagues & Hire & Meeting & People & Want' cluster, likely overlapping in roles such as senior director and shared event goals."
+  },
+  {
+    "First Name": "Marine",
+    "Last Name": "de La Bretesche",
+    "Full Name": "Marine de La Bretesche",
+    "email": "marine.delabretesche@gmail.com",
+    "recommended_name_1": "shreyas mahimkar",
+    "rationale_1": "Both are in the 'Colleagues & Hire & Meeting & People & Want' cluster, suggesting shared interests in senior product manager and networking goals.",
+    "recommended_name_2": "Raquel Silva",
+    "rationale_2": "Both are in the 'Colleagues & Hire & Meeting & People & Want' cluster, likely overlapping in roles such as student and shared event goals."
+  },
+  {
+    "First Name": "shreyas",
+    "Last Name": "mahimkar",
+    "Full Name": "shreyas mahimkar",
+    "email": "shreyasmahimkar@gmail.com",
+    "recommended_name_1": "Marine de La Bretesche",
+    "rationale_1": "Both are in the 'Colleagues & Hire & Meeting & People & Want' cluster, suggesting shared interests in data scientist and networking goals.",
+    "recommended_name_2": "Vasundhara Khemani",
+    "rationale_2": "Both are in the 'Colleagues & Hire & Meeting & People & Want' cluster, likely overlapping in roles such as operation analyst and shared event goals."
+  },
+  {
+    "First Name": "Nauras",
+    "Last Name": "Jamal",
+    "Full Name": "Nauras Jamal",
+    "email": "naurasjamal@gmail.com",
+    "recommended_name_1": "Arzu Suleymanova",
+    "rationale_1": "Both are in the 'Colleagues & Hire & Meeting & People & Want' cluster, suggesting shared interests in fractional product leader and networking goals.",
+    "recommended_name_2": "shreyas mahimkar",
+    "rationale_2": "Both are in the 'Colleagues & Hire & Meeting & People & Want' cluster, likely overlapping in roles such as data scientist and shared event goals."
+  },
+  {
+    "First Name": "Arzu",
+    "Last Name": "Suleymanova",
+    "Full Name": "Arzu Suleymanova",
+    "email": "arzusuleymanovva@gmail.com",
+    "recommended_name_1": "Nauras Jamal",
+    "rationale_1": "Both are in the 'Colleagues & Hire & Meeting & People & Want' cluster, suggesting shared interests in data analyst and networking goals.",
+    "recommended_name_2": "Shael Brown",
+    "rationale_2": "Both are in the 'Colleagues & Hire & Meeting & People & Want' cluster, likely overlapping in roles such as founder and shared event goals."
+  },
+  {
+    "First Name": "Jonathan",
+    "Last Name": "Sheffi",
+    "Full Name": "Jonathan Sheffi",
+    "email": "jsheffi+eventbrite@gmail.com",
+    "recommended_name_1": "Khalilah Gambrell",
+    "rationale_1": "Both are in the 'Colleagues & Manager & Meeting & New & Product' cluster, suggesting shared interests in vp strategy & product excellence and networking goals.",
+    "recommended_name_2": "Linh Nguyen",
+    "rationale_2": "Both are in the 'Colleagues & Manager & Meeting & New & Product' cluster, likely overlapping in roles such as product manager and shared event goals."
+  },
+  {
+    "First Name": "Khalilah",
+    "Last Name": "Gambrell",
+    "Full Name": "Khalilah Gambrell",
+    "email": "gambrell9899@gmail.com",
+    "recommended_name_1": "Jonathan Sheffi",
+    "rationale_1": "Both are in the 'Colleagues & Manager & Meeting & New & Product' cluster, suggesting shared interests in principal product manager and networking goals.",
+    "recommended_name_2": "Hiba Morrison",
+    "rationale_2": "Both are in the 'Colleagues & Manager & Meeting & New & Product' cluster, likely overlapping in roles such as senior product manager and shared event goals."
+  },
+  {
+    "First Name": "Purvi",
+    "Last Name": "Rane",
+    "Full Name": "Purvi Rane",
+    "email": "purvi.rane@te.com",
+    "recommended_name_1": "Gary Dietz",
+    "rationale_1": "Both are in the 'Colleagues & Manager & Meeting & New & Product' cluster, suggesting shared interests in product manager and networking goals.",
+    "recommended_name_2": "Harlan Brumm",
+    "rationale_2": "Both are in the 'Colleagues & Manager & Meeting & New & Product' cluster, likely overlapping in roles such as director of product management and shared event goals."
+  },
+  {
+    "First Name": "Gary",
+    "Last Name": "Dietz",
+    "Full Name": "Gary Dietz",
+    "email": "gdietz@garydietz.com",
+    "recommended_name_1": "Purvi Rane",
+    "rationale_1": "Both are in the 'Colleagues & Manager & Meeting & New & Product' cluster, suggesting shared interests in founder and networking goals.",
+    "recommended_name_2": "John Haushalter",
+    "rationale_2": "Both are in the 'Colleagues & Manager & Meeting & New & Product' cluster, likely overlapping in roles such as president and shared event goals."
+  },
+  {
+    "First Name": "Emily",
+    "Last Name": "Smith",
+    "Full Name": "Emily Smith",
+    "email": "emilynsmith2@gmail.com",
+    "recommended_name_1": "Prateek Prasad",
+    "rationale_1": "Both are in the 'Colleagues & Manager & Meeting & New & Product' cluster, suggesting shared interests in founder and networking goals.",
+    "recommended_name_2": "John Haushalter",
+    "rationale_2": "Both are in the 'Colleagues & Manager & Meeting & New & Product' cluster, likely overlapping in roles such as president and shared event goals."
+  },
+  {
+    "First Name": "Prateek",
+    "Last Name": "Prasad",
+    "Full Name": "Prateek Prasad",
+    "email": "prateekprasad07@gmail.com",
+    "recommended_name_1": "Emily Smith",
+    "rationale_1": "Both are in the 'Colleagues & Manager & Meeting & New & Product' cluster, suggesting shared interests in director of product management and networking goals.",
+    "recommended_name_2": "John Haushalter",
+    "rationale_2": "Both are in the 'Colleagues & Manager & Meeting & New & Product' cluster, likely overlapping in roles such as president and shared event goals."
+  },
+  {
+    "First Name": "Linh",
+    "Last Name": "Nguyen",
+    "Full Name": "Linh Nguyen",
+    "email": "linnguye@redhat.com",
+    "recommended_name_1": "Hiba Morrison",
+    "rationale_1": "Both are in the 'Colleagues & Manager & Meeting & New & Product' cluster, suggesting shared interests in product manager and networking goals.",
+    "recommended_name_2": "Douglyss Giuliana",
+    "rationale_2": "Both are in the 'Colleagues & Manager & Meeting & New & Product' cluster, likely overlapping in roles such as director of product and shared event goals."
+  },
+  {
+    "First Name": "Hiba",
+    "Last Name": "Morrison",
+    "Full Name": "Hiba Morrison",
+    "email": "hiba.morrison@gmail.com",
+    "recommended_name_1": "Linh Nguyen",
+    "rationale_1": "Both are in the 'Colleagues & Manager & Meeting & New & Product' cluster, suggesting shared interests in senior product manager and networking goals.",
+    "recommended_name_2": "Khalilah Gambrell",
+    "rationale_2": "Both are in the 'Colleagues & Manager & Meeting & New & Product' cluster, likely overlapping in roles such as principal product manager and shared event goals."
+  },
+  {
+    "First Name": "John",
+    "Last Name": "Haushalter",
+    "Full Name": "John Haushalter",
+    "email": "jhaushalter@pragmaticinstitute.com",
+    "recommended_name_1": "Himanshu Chouhan",
+    "rationale_1": "Both are in the 'Colleagues & Manager & Meeting & New & Product' cluster, suggesting shared interests in president and networking goals.",
+    "recommended_name_2": "Hiba Morrison",
+    "rationale_2": "Both are in the 'Colleagues & Manager & Meeting & New & Product' cluster, likely overlapping in roles such as senior product manager and shared event goals."
+  },
+  {
+    "First Name": "Himanshu",
+    "Last Name": "Chouhan",
+    "Full Name": "Himanshu Chouhan",
+    "email": "himanshuchouhan@gmail.com",
+    "recommended_name_1": "John Haushalter",
+    "rationale_1": "Both are in the 'Colleagues & Manager & Meeting & New & Product' cluster, suggesting shared interests in product technology leader and networking goals.",
+    "recommended_name_2": "Prateek Prasad",
+    "rationale_2": "Both are in the 'Colleagues & Manager & Meeting & New & Product' cluster, likely overlapping in roles such as director of product management and shared event goals."
+  },
+  {
+    "First Name": "Douglyss",
+    "Last Name": "Giuliana",
+    "Full Name": "Douglyss Giuliana",
+    "email": "doug.giuliana@gmail.com",
+    "recommended_name_1": "Harlan Brumm",
+    "rationale_1": "Both are in the 'Colleagues & Manager & Meeting & New & Product' cluster, suggesting shared interests in director of product and networking goals.",
+    "recommended_name_2": "Linh Nguyen",
+    "rationale_2": "Both are in the 'Colleagues & Manager & Meeting & New & Product' cluster, likely overlapping in roles such as product manager and shared event goals."
+  },
+  {
+    "First Name": "Harlan",
+    "Last Name": "Brumm",
+    "Full Name": "Harlan Brumm",
+    "email": "harlan.brumm@gmail.com",
+    "recommended_name_1": "Douglyss Giuliana",
+    "rationale_1": "Both are in the 'Colleagues & Manager & Meeting & New & Product' cluster, suggesting shared interests in director of product management and networking goals.",
+    "recommended_name_2": "Purvi Rane",
+    "rationale_2": "Both are in the 'Colleagues & Manager & Meeting & New & Product' cluster, likely overlapping in roles such as product manager and shared event goals."
+  },
+  {
+    "First Name": "Liana",
+    "Last Name": "Leahy",
+    "Full Name": "Liana Leahy",
+    "email": "liana@liana.org",
+    "recommended_name_1": "Liana Leahy",
+    "rationale_1": "Both are in the 'Colleagues & Existing & Meeting & People & Product' cluster, suggesting shared interests in director of product management and networking goals.",
+    "recommended_name_2": "Liana Leahy",
+    "rationale_2": "Both are in the 'Colleagues & Existing & Meeting & People & Product' cluster, likely overlapping in roles such as director of product management and shared event goals."
+  },
+  {
+    "First Name": "Jorge",
+    "Last Name": "Calzada",
+    "Full Name": "Jorge Calzada",
+    "email": "jcalzada@alum.mit.edu",
+    "recommended_name_1": "Lexi Borbotsina",
+    "rationale_1": "Both are in the 'Colleagues & Existing & Meeting & People & Product' cluster, suggesting shared interests in head of ai/ml and networking goals.",
+    "recommended_name_2": "Alex Ruiz",
+    "rationale_2": "Both are in the 'Colleagues & Existing & Meeting & People & Product' cluster, likely overlapping in roles such as head of product and shared event goals."
+  },
+  {
+    "First Name": "Lexi",
+    "Last Name": "Borbotsina",
+    "Full Name": "Lexi Borbotsina",
+    "email": "aeborbotsina@gmail.com",
+    "recommended_name_1": "Jorge Calzada",
+    "rationale_1": "Both are in the 'Colleagues & Existing & Meeting & People & Product' cluster, suggesting shared interests in senior ux researcher and networking goals.",
+    "recommended_name_2": "Steve Gaylor",
+    "rationale_2": "Both are in the 'Colleagues & Existing & Meeting & People & Product' cluster, likely overlapping in roles such as instructor and shared event goals."
+  },
+  {
+    "First Name": "Alex",
+    "Last Name": "Ruiz",
+    "Full Name": "Alex Ruiz",
+    "email": "alex@learnlux.com",
+    "recommended_name_1": "Nina Mitchell",
+    "rationale_1": "Both are in the 'Colleagues & Existing & Meeting & People & Product' cluster, suggesting shared interests in head of product and networking goals.",
+    "recommended_name_2": "Jorge Calzada",
+    "rationale_2": "Both are in the 'Colleagues & Existing & Meeting & People & Product' cluster, likely overlapping in roles such as head of ai/ml and shared event goals."
+  },
+  {
+    "First Name": "Nina",
+    "Last Name": "Mitchell",
+    "Full Name": "Nina Mitchell",
+    "email": "nina.a.mitchell@gmail.com",
+    "recommended_name_1": "Alex Ruiz",
+    "rationale_1": "Both are in the 'Colleagues & Existing & Meeting & People & Product' cluster, suggesting shared interests in chief of staff and networking goals.",
+    "recommended_name_2": "Neil Baron",
+    "rationale_2": "Both are in the 'Colleagues & Existing & Meeting & People & Product' cluster, likely overlapping in roles such as managing director and shared event goals."
+  },
+  {
+    "First Name": "Denis",
+    "Last Name": "Mbabazi",
+    "Full Name": "Denis Mbabazi",
+    "email": "dmbabazi@student.hult.edu",
+    "recommended_name_1": "Tanmay Sarkar",
+    "rationale_1": "Both are in the 'Colleagues & Existing & Meeting & People & Product' cluster, suggesting shared interests in  and networking goals.",
+    "recommended_name_2": "Wynn Taylor",
+    "rationale_2": "Both are in the 'Colleagues & Existing & Meeting & People & Product' cluster, likely overlapping in roles such as product manager and shared event goals."
+  },
+  {
+    "First Name": "Tanmay",
+    "Last Name": "Sarkar",
+    "Full Name": "Tanmay Sarkar",
+    "email": "tsarkar@student.hult.edu",
+    "recommended_name_1": "Denis Mbabazi",
+    "rationale_1": "Both are in the 'Colleagues & Existing & Meeting & People & Product' cluster, suggesting shared interests in customer success manager and networking goals.",
+    "recommended_name_2": "Damon Poole",
+    "rationale_2": "Both are in the 'Colleagues & Existing & Meeting & People & Product' cluster, likely overlapping in roles such as ceo and shared event goals."
+  },
+  {
+    "First Name": "Andrea",
+    "Last Name": "Nelson",
+    "Full Name": "Andrea Nelson",
+    "email": "andrea.nelson@gmail.com",
+    "recommended_name_1": "Martin Bakal",
+    "rationale_1": "Both are in the 'Colleagues & Existing & Meeting & People & Product' cluster, suggesting shared interests in head of product & research and networking goals.",
+    "recommended_name_2": "Denis Mbabazi",
+    "rationale_2": "Both are in the 'Colleagues & Existing & Meeting & People & Product' cluster, likely overlapping in roles such as  and shared event goals."
+  },
+  {
+    "First Name": "Martin",
+    "Last Name": "Bakal",
+    "Full Name": "Martin Bakal",
+    "email": "martin.bakal@gmail.com",
+    "recommended_name_1": "Andrea Nelson",
+    "rationale_1": "Both are in the 'Colleagues & Existing & Meeting & People & Product' cluster, suggesting shared interests in systems engineer and networking goals.",
+    "recommended_name_2": "Liana Leahy",
+    "rationale_2": "Both are in the 'Colleagues & Existing & Meeting & People & Product' cluster, likely overlapping in roles such as director of product management and shared event goals."
+  },
+  {
+    "First Name": "Matt",
+    "Last Name": "Johnson",
+    "Full Name": "Matt Johnson",
+    "email": "mattjohnson31@gmail.com",
+    "recommended_name_1": "Eugene Khazan",
+    "rationale_1": "Both are in the 'Colleagues & Existing & Meeting & People & Product' cluster, suggesting shared interests in director of product management and networking goals.",
+    "recommended_name_2": "Jorge Calzada",
+    "rationale_2": "Both are in the 'Colleagues & Existing & Meeting & People & Product' cluster, likely overlapping in roles such as head of ai/ml and shared event goals."
+  },
+  {
+    "First Name": "Eugene",
+    "Last Name": "Khazan",
+    "Full Name": "Eugene Khazan",
+    "email": "eugene77@gmail.com",
+    "recommended_name_1": "Matt Johnson",
+    "rationale_1": "Both are in the 'Colleagues & Existing & Meeting & People & Product' cluster, suggesting shared interests in director of product management and networking goals.",
+    "recommended_name_2": "Martin Bakal",
+    "rationale_2": "Both are in the 'Colleagues & Existing & Meeting & People & Product' cluster, likely overlapping in roles such as systems engineer and shared event goals."
+  },
+  {
+    "First Name": "Chuck",
+    "Last Name": "Alexander",
+    "Full Name": "Chuck Alexander",
+    "email": "cgale.x@gmail.com",
+    "recommended_name_1": "Kyle Vernest",
+    "rationale_1": "Both are in the 'Colleagues & Existing & Meeting & People & Product' cluster, suggesting shared interests in senior director, product management and networking goals.",
+    "recommended_name_2": "Liana Leahy",
+    "rationale_2": "Both are in the 'Colleagues & Existing & Meeting & People & Product' cluster, likely overlapping in roles such as director of product management and shared event goals."
+  },
+  {
+    "First Name": "Kyle",
+    "Last Name": "Vernest",
+    "Full Name": "Kyle Vernest",
+    "email": "kvernest@gmail.com",
+    "recommended_name_1": "Chuck Alexander",
+    "rationale_1": "Both are in the 'Colleagues & Existing & Meeting & People & Product' cluster, suggesting shared interests in ad commercial performance analytics and ai product and networking goals.",
+    "recommended_name_2": "andrew shepard",
+    "rationale_2": "Both are in the 'Colleagues & Existing & Meeting & People & Product' cluster, likely overlapping in roles such as director / vp product and shared event goals."
+  },
+  {
+    "First Name": "Christine",
+    "Last Name": "Ine",
+    "Full Name": "Christine Ine",
+    "email": "ms.mimiine@yahoo.com",
+    "recommended_name_1": "Steve Gaylor",
+    "rationale_1": "Both are in the 'Colleagues & Existing & Meeting & People & Product' cluster, suggesting shared interests in product manager and networking goals.",
+    "recommended_name_2": "Arundhati Kurup",
+    "rationale_2": "Both are in the 'Colleagues & Existing & Meeting & People & Product' cluster, likely overlapping in roles such as product manager and shared event goals."
+  },
+  {
+    "First Name": "Steve",
+    "Last Name": "Gaylor",
+    "Full Name": "Steve Gaylor",
+    "email": "sgaylor@pragmaticinstitute.com",
+    "recommended_name_1": "Christine Ine",
+    "rationale_1": "Both are in the 'Colleagues & Existing & Meeting & People & Product' cluster, suggesting shared interests in instructor and networking goals.",
+    "recommended_name_2": "Arundhati Kurup",
+    "rationale_2": "Both are in the 'Colleagues & Existing & Meeting & People & Product' cluster, likely overlapping in roles such as product manager and shared event goals."
+  },
+  {
+    "First Name": "Neil",
+    "Last Name": "Baron",
+    "Full Name": "Neil Baron",
+    "email": "nbaron@baronstrategic.com",
+    "recommended_name_1": "andrew shepard",
+    "rationale_1": "Both are in the 'Colleagues & Existing & Meeting & People & Product' cluster, suggesting shared interests in managing director and networking goals.",
+    "recommended_name_2": "Nina Mitchell",
+    "rationale_2": "Both are in the 'Colleagues & Existing & Meeting & People & Product' cluster, likely overlapping in roles such as chief of staff and shared event goals."
+  },
+  {
+    "First Name": "andrew",
+    "Last Name": "shepard",
+    "Full Name": "andrew shepard",
+    "email": "canrshepard@gmail.com",
+    "recommended_name_1": "Neil Baron",
+    "rationale_1": "Both are in the 'Colleagues & Existing & Meeting & People & Product' cluster, suggesting shared interests in director / vp product and networking goals.",
+    "recommended_name_2": "Liana Leahy",
+    "rationale_2": "Both are in the 'Colleagues & Existing & Meeting & People & Product' cluster, likely overlapping in roles such as director of product management and shared event goals."
+  },
+  {
+    "First Name": "Arundhati",
+    "Last Name": "Kurup",
+    "Full Name": "Arundhati Kurup",
+    "email": "arundhatikurup074@gmail.com",
+    "recommended_name_1": "Damon Poole",
+    "rationale_1": "Both are in the 'Colleagues & Existing & Meeting & People & Product' cluster, suggesting shared interests in product manager and networking goals.",
+    "recommended_name_2": "Christine Ine",
+    "rationale_2": "Both are in the 'Colleagues & Existing & Meeting & People & Product' cluster, likely overlapping in roles such as product manager and shared event goals."
+  },
+  {
+    "First Name": "Damon",
+    "Last Name": "Poole",
+    "Full Name": "Damon Poole",
+    "email": "damonbpoole@gmail.com",
+    "recommended_name_1": "Arundhati Kurup",
+    "rationale_1": "Both are in the 'Colleagues & Existing & Meeting & People & Product' cluster, suggesting shared interests in ceo and networking goals.",
+    "recommended_name_2": "Nina Mitchell",
+    "rationale_2": "Both are in the 'Colleagues & Existing & Meeting & People & Product' cluster, likely overlapping in roles such as chief of staff and shared event goals."
+  },
+  {
+    "First Name": "Wynn",
+    "Last Name": "Taylor",
+    "Full Name": "Wynn Taylor",
+    "email": "wynn.taylor+work@gmail.com",
+    "recommended_name_1": "Joe Lamantia",
+    "rationale_1": "Both are in the 'Colleagues & Existing & Meeting & People & Product' cluster, suggesting shared interests in product manager and networking goals.",
+    "recommended_name_2": "Denis Mbabazi",
+    "rationale_2": "Both are in the 'Colleagues & Existing & Meeting & People & Product' cluster, likely overlapping in roles such as  and shared event goals."
+  },
+  {
+    "First Name": "Joe",
+    "Last Name": "Lamantia",
+    "Full Name": "Joe Lamantia",
+    "email": "joe.lamantia@gmail.com",
+    "recommended_name_1": "Wynn Taylor",
+    "rationale_1": "Both are in the 'Colleagues & Existing & Meeting & People & Product' cluster, suggesting shared interests in founder and networking goals.",
+    "recommended_name_2": "Jorge Calzada",
+    "rationale_2": "Both are in the 'Colleagues & Existing & Meeting & People & Product' cluster, likely overlapping in roles such as head of ai/ml and shared event goals."
+  },
+  {
+    "First Name": "Tair",
+    "Last Name": "Vehbi",
+    "Full Name": "Tair Vehbi",
+    "email": "tvehbi@student.hult.edu",
+    "recommended_name_1": "Yonela Somdaka",
+    "rationale_1": "Both are in the 'Business & Hult & Meeting & Student & Want' cluster, suggesting shared interests in student and networking goals.",
+    "recommended_name_2": "Maria Ximena Medina",
+    "rationale_2": "Both are in the 'Business & Hult & Meeting & Student & Want' cluster, likely overlapping in roles such as student and shared event goals."
+  },
+  {
+    "First Name": "Yonela",
+    "Last Name": "Somdaka",
+    "Full Name": "Yonela Somdaka",
+    "email": "YSOMDAKA@student.hult.edu",
+    "recommended_name_1": "Tair Vehbi",
+    "rationale_1": "Both are in the 'Business & Hult & Meeting & Student & Want' cluster, suggesting shared interests in mba student and networking goals.",
+    "recommended_name_2": "Maria Ximena Medina",
+    "rationale_2": "Both are in the 'Business & Hult & Meeting & Student & Want' cluster, likely overlapping in roles such as student and shared event goals."
+  },
+  {
+    "First Name": "Maria Ximena",
+    "Last Name": "Medina",
+    "Full Name": "Maria Ximena Medina",
+    "email": "mmedina@student.hult.edu",
+    "recommended_name_1": "Carlos Alberto Postigo",
+    "rationale_1": "Both are in the 'Business & Hult & Meeting & Student & Want' cluster, suggesting shared interests in student and networking goals.",
+    "recommended_name_2": "Tair Vehbi",
+    "rationale_2": "Both are in the 'Business & Hult & Meeting & Student & Want' cluster, likely overlapping in roles such as student and shared event goals."
+  },
+  {
+    "First Name": "Carlos Alberto",
+    "Last Name": "Postigo",
+    "Full Name": "Carlos Alberto Postigo",
+    "email": "cpostigotoledo@gmail.com",
+    "recommended_name_1": "Maria Ximena Medina",
+    "rationale_1": "Both are in the 'Business & Hult & Meeting & Student & Want' cluster, suggesting shared interests in mba student and networking goals.",
+    "recommended_name_2": "Fayzal Olushi",
+    "rationale_2": "Both are in the 'Business & Hult & Meeting & Student & Want' cluster, likely overlapping in roles such as student and shared event goals."
+  },
+  {
+    "First Name": "Kalai Arun Balu",
+    "Last Name": "Ravikumar",
+    "Full Name": "Kalai Arun Balu Ravikumar",
+    "email": "arunbalu24012002@gmail.com",
+    "recommended_name_1": "Gabriella Zhang",
+    "rationale_1": "Both are in the 'Ai & Colleagues & Meeting & New & Product' cluster, suggesting shared interests in student and networking goals.",
+    "recommended_name_2": "Brian Bozzuto",
+    "rationale_2": "Both are in the 'Ai & Colleagues & Meeting & New & Product' cluster, likely overlapping in roles such as director of technical program management and shared event goals."
+  },
+  {
+    "First Name": "Fayzal",
+    "Last Name": "Olushi",
+    "Full Name": "Fayzal Olushi",
+    "email": "olushifayzal@gmail.com",
+    "recommended_name_1": "Carlos Alberto Postigo",
+    "rationale_1": "Both are in the 'Business & Hult & Meeting & Student & Want' cluster, suggesting shared interests in student and networking goals.",
+    "recommended_name_2": "Tair Vehbi",
+    "rationale_2": "Both are in the 'Business & Hult & Meeting & Student & Want' cluster, likely overlapping in roles such as student and shared event goals."
+  }
+]
