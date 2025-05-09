@@ -112,7 +112,7 @@ const NetworkingRecommendations = () => {
 
   return (
     <div className="container">
-      <h1 className="title">Networking Recommendations</h1>
+      <h1 className="title">Who to meet at ProductCamp Boston?</h1>
       
       {loading ? (
         <p className="loading">Loading networking data...</p>
