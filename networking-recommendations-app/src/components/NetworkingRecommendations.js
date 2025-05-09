@@ -111,49 +111,49 @@ const NetworkingRecommendations = () => {
   };
 
   return (
-    <div className="p-6 max-w-2xl mx-auto bg-white rounded-xl shadow-md">
-      <h1 className="text-2xl font-bold mb-6 text-blue-600">Networking Recommendations</h1>
+    <div className="container">
+      <h1 className="title">Networking Recommendations</h1>
       
       {loading ? (
-        <p className="text-gray-600">Loading networking data...</p>
+        <p className="loading">Loading networking data...</p>
       ) : error ? (
-        <p className="text-red-500">{error}</p>
+        <p className="error">{error}</p>
       ) : (
-        <div className="space-y-4">
-          <div className="flex items-center">
+        <div>
+          <div className="searchContainer">
             <input
               type="text"
               value={searchName}
               onChange={handleSearchChange}
               placeholder="Enter a name..."
-              className="flex-grow px-4 py-2 border border-gray-300 rounded-l focus:outline-none focus:ring-2 focus:ring-blue-500"
+              className="searchInput"
             />
             <button
               onClick={findRecommendations}
-              className="bg-blue-600 text-white px-6 py-2 rounded-r hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-500"
+              className="searchButton"
             >
               Find
             </button>
           </div>
 
           {searchPerformed && (
-            <div className="mt-4">
+            <div className="recommendations">
               {recommendations ? (
                 <div>
-                  <h2 className="text-xl font-semibold mb-4">Recommendations for {recommendations.name}</h2>
-                  <div className="space-y-6">
+                  <h2 className="recommendationTitle">Recommendations for {recommendations.name}</h2>
+                  <div className="recommendationList">
                     {recommendations.recommendations.map((rec, index) => (
-                      <div key={index} className="p-4 border border-gray-200 rounded-lg bg-gray-50">
-                        <h3 className="text-lg font-medium text-blue-600 mb-2">
+                      <div key={index} className="recommendationCard">
+                        <h3 className="recommendationName">
                           {index + 1}. {rec.name}
                         </h3>
-                        <p className="text-gray-700">{rec.rationale}</p>
+                        <p className="recommendationRationale">{rec.rationale}</p>
                       </div>
                     ))}
                   </div>
                 </div>
               ) : (
-                <p className="text-orange-500">No matches found. Please try another name.</p>
+                <p className="noMatch">No matches found. Please try another name.</p>
               )}
             </div>
           )}
