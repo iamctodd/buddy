@@ -142,3 +142,15 @@ body {
     margin-bottom: 0.5rem;
   }
 }
+
+/* Add these styles to your existing CSS file */
+.logoContainer {
+  display: flex;
+  justify-content: flex-start; /* Left-aligned */
+  margin-bottom: 1.5rem;
+}
+
+.logo {
+  max-height: 60px;
+  /* Adjust the height as needed */
+}

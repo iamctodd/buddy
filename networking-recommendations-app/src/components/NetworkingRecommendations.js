@@ -112,6 +112,9 @@ const NetworkingRecommendations = () => {
 
   return (
     <div className="container">
+    <div className="logoContainer">
+      <img src="/logo.png" alt="PCamp Boston Logo" className="logo" />
+    </div>
       <h1 className="title">Who to meet at ProductCamp Boston?</h1>
       
       {loading ? (
